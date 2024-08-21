@@ -1,1 +1,1 @@
-# WPFStopwatchTimer
+The WPFStopwatchTimer is a simple, barebones desktop application developed using C# and Windows Presentation Foundation (WPF). It serves as a basic stopwatch and timer, primarily aimed at demonstrating proficiency in using C# and WPF for creating functional desktop applications.
